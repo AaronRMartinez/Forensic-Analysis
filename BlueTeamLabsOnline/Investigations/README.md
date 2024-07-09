@@ -37,3 +37,17 @@ A highly confidential document has been stolen from the President's laptop and h
 - Jumplist Explorer
 
 <a href="https://blueteamlabs.online/achievement/share/76960/3">View Achievement</a>
+
+## THE LAST JEDI
+
+### Scenario
+
+The critical infrastructure that manages the power grid is under attack, all of the files are encrypted and the background wallpaper got changed letting the users know that all of their files are encrypted. We have collected enough evidence for you to figure out what the ransomware does, but along with the evidence, you will have to apply your analytical skills and think outside of the box. 
+
+### Tools
+
+- CFF Explorer
+- Wireshark
+- Redline
+
+<a href="https://blueteamlabs.online/achievement/share/76960/49">View Achievement</a>
