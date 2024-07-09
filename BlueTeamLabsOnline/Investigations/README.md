@@ -1,7 +1,7 @@
 
 Completed **Blue Team Labs Online** investigations pertaining to forensic analysis.
 
-## Forensic Analysis
+## COUNTDOWN
 
 ### Scenario
 
@@ -22,3 +22,18 @@ Disclaimer: The story, all names, characters, and incidents portrayed in this ch
 - SQLite DB Browser
 
 <a href="https://blueteamlabs.online/achievement/share/76960/1">View Achievement</a>
+
+## STICKY SITUATION
+
+### Scenario
+
+A highly confidential document has been stolen from the President's laptop and has been sold on the Dark Web. The Secret Service thinks someone with physical access to the laptop was able to retrieve the important document, and they suspect the likely method was ATT&CK ID T1052.001. Can you help the Secret Service to figure out how this happened? 
+
+### Tools
+
+- Autopsy
+- Window File Analyzer
+- WinPrefetchView
+- Jumplist Explorer
+
+<a href="https://blueteamlabs.online/achievement/share/76960/3">View Achievement</a>
