@@ -1,6 +1,8 @@
+# BTLO Forensic Analysis Challenges
+
 Completed **Blue Team Labs Online** challenges pertaining to forensic analysis.
 
-## Forensic Analysis
+## MEMORY ANALYSIS - RANSOMWARE
 
 ### Scenario
 
